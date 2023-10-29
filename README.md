@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abishake01</h1>
 <h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vmmuthu31&label=Profile%20views&color=0e75b6&style=flat" alt="vmmuthu31" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vmmuthu31&label=Profile%20views&color=0e75b6&style=flat" alt="Abishake01" /> </p>
 <a href="#Abishake01-title">
   <img src="https://github-readme-stats.vercel.app/api?username=Abishake01&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Abishake" align="right" />
 </a>
@@ -34,6 +34,12 @@
       </a>
       <br>JavaScript
     </td>
+    <td align="center" width="96">
+      <a href="Abishake01">
+        <img src=" https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="48" height="48" alt="Html" />
+      </a>
+      <br>Html
+    </td>
   
   <tr>
     <td align="center" width="96"> 
@@ -48,6 +54,12 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
+    </td>
+     <td align="center" width="96">
+      <a href="#Abishake01" >
+        <img src=" https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48" height="48" alt="css" />
+      </a>
+      <br>CSS
     </td>
      
   </tr>
@@ -64,6 +76,12 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
       </a>
       <br>Figma
+    </td>
+     <td align="center" width="96">
+      <a href="Abishake01">
+        <img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="45" height="45" alt="Java Script" />
+      </a>
+      <br>Java Script
     </td>
     
   </tr>
