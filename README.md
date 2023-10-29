@@ -36,7 +36,7 @@
     </td>
     <td align="center" width="96">
       <a href="Abishake01">
-        <img src=" https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="48" height="48" alt="Html" />
+        <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width="48" height="48" alt="Html" />
       </a>
       <br>Html
     </td>
@@ -57,7 +57,7 @@
     </td>
      <td align="center" width="96">
       <a href="#Abishake01" >
-        <img src=" https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48" height="48" alt="css" />
+        <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="48" height="48" alt="css" />
       </a>
       <br>CSS
     </td>
@@ -79,9 +79,9 @@
     </td>
      <td align="center" width="96">
       <a href="Abishake01">
-        <img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="45" height="45" alt="Java Script" />
+        <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" width="45" height="45" alt="React" />
       </a>
-      <br>Java Script
+      <br>React
     </td>
     
   </tr>
