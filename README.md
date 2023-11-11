@@ -87,6 +87,14 @@
   </tr>
     
 </table>
+Monday       107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
+Tuesday      99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.06% 
+Wednesday    103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.55% 
+Thursday     112 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Friday       95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.57% 
+Saturday     136 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
+Sunday       169 commits    █████░░░░░░░░░░░░░░░░░░░░   20.58%
+
 
 <!---
 Abishake01/Abishake01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
