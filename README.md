@@ -44,9 +44,9 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#Abishake01" >
-        <img src="" width="48" height="48" alt="C" />
+        <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
       </a>
-      <br>Django
+      <br>C lang
     </td>
  
    <td align="center" width="96">
