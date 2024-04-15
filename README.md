@@ -83,7 +83,12 @@
       </a>
       <br>Django
     </td>
-    
+    <td align="center" width="96">
+      <a href="#vmmuthu31">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
   </tr>
     
 </table>
