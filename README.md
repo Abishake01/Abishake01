@@ -98,7 +98,7 @@
 
 # Most used Language
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abishake01&show_icons=true&locale=en&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000" alt="Abishake01 />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abishake01&show_icons=true&locale=en&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000" alt="Abishake01" />
 </p>
 # Contribution
 
