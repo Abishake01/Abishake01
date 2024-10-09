@@ -42,7 +42,7 @@
     </td>
      <td align="center" width="96">
       <a href="#Abishake01">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" width="48" height="48" alt="Flutter" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flutter_logo.svg" width="48" height="48" alt="Flutter" />
       </a>
       <br>Flutter
     </td>
