@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abishake</h1>
 <h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vmmuthu31&label=Profile%20views&color=0e75b6&style=flat" alt="Abishake01" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Abishake01&label=Profile%20views&color=0e75b6&style=flat" alt="Abishake01" /> </p>
 <a href="#Abishake01-title">
   <img src="https://github-readme-stats.vercel.app/api?username=Abishake01&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Abishake" align="right" />
 </a>
