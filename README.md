@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Abishake01&label=Profile%20views&color=0e75b6&style=flat" alt="Abishake01" /> </p>
 <a href="#Abishake01-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abishake01&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Abishake" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abishake01&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Abishake01" align="right" />
 </a>
 
 - 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"26
@@ -17,7 +17,7 @@
 
 <br>
 
-<h2 align="left" id=""vmmuthu31>Favorite Tech</h2>
+<h2 align="left" id=""Abishake01>Favorite Tech</h2>
 > Tools, languages, and other things that I like to work with.
 
 <table align="center">
