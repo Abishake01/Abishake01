@@ -95,6 +95,12 @@
       </a>
       <br>Django
     </td>
+     <td align="center" width="96">
+      <a href="#Abishake01">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
     
   </tr>
    
