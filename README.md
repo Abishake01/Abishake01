@@ -46,6 +46,12 @@
       </a>
       <br>Flutter
     </td>
+    <td align="center" width="96">
+      <a href="#Abishake01">
+        <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="48" height="48" alt="mysql" />
+      </a>
+      <br>MySql
+    </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
@@ -73,8 +79,15 @@
       </a>
       <br>Dart
     </td>
-     
-  </tr>
+    <td align="center" width="96">
+      <a href="#Abishake01">
+        <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/MongoDB_Fores-Green.svg" width="48" height="48" alt="mongodb" />
+      </a>
+      <br>Mongodb
+    </td>
+    
+  </tr> 
+  
    <tr>
     <td align="center" width="96">
       <a href="#Abishake01">
@@ -101,8 +114,15 @@
       </a>
       <br>React
     </td>
+    <td align="center" width="96">
+      <a href="#Abishake01">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
     
   </tr>
+  
    
     
 </table>
