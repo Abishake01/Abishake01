@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abishake</h1>
-<h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
+<h3 align="center">Passionate for innovation, A boy trying to figure out stuff!!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Abishake01&label=Profile%20views&color=0e75b6&style=flat" alt="Abishake01" /> </p>
 <a href="#Abishake01-title">
@@ -8,11 +8,11 @@
 
 - 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"26
 - :writing_hand: &nbsp;Read my articles on [Medium](https://medium.com/@abishake381)
-- :speech_balloon: &nbsp;I like to talk about **Python** and **Web 3.0**
+- :speech_balloon: &nbsp;I like to talk about **Python**, **AI** and **Web 3.0**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/abishake-t-835428257/)
 - 📫 How to reach me **abishake381@gmail.com**
-- :bird: &nbsp;Let's talk more in [Twitter](https://twitter.com/abishake381)
+- :bird: &nbsp;Let's talk more in [Twitter](https://x.com/abishake381)
 
 
 <br>
