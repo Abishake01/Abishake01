@@ -1,76 +1,83 @@
-<!-- Profile Header with Animation -->
+<h1 align="center">
+  Hi 👋, I'm Abishake
+</h1>
+
+<h3 align="center">
+  Passionate for innovation • A boy trying to figure out stuff 🚀
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abishake;Passionate+for+innovation;A+boy+trying+to+figure+out+stuff!!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Python+Developer;AI+%26+Web3+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abishake01&label=Profile%20views&color=0e75b6&style=flat" alt="Abishake01" />
+  <img src="https://komarev.com/ghpvc/?username=Abishake01&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Abishake01">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abishake01&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Abishake01" height="180"/>
+---
+
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212897744-9c5f4a87-6d7a-4d7b-bd6c-2a9a6b97d4f9.gif" />
+
+### 👨‍💻 About Me
+
+- 🏫 Pursuing **B.E CSE** at **JEC'26**
+- ✍️ Writing articles on **[Medium](https://medium.com/@abishake381)**
+- 💬 Love talking about **Python**, **AI**, and **Web3**
+- 🤝 Always happy to **help & collaborate**
+- 📫 Reach me at **abishake381@gmail.com**
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abishake-t-835428257/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/abishake381" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:abishake381@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
-
-- 🏫 I'm Pursuing **B.E CSE at JEC'26**
-- ✍️ Read my articles on [Medium](https://medium.com/@abishake381)
-- 💬 I like to talk about **Python**, **AI**, and **Web 3.0**
-- 📬 Ask me about anything, I am happy to **help**
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/abishake-t-835428257/)
-- 📫 How to reach me: **abishake381@gmail.com**
-- 🐦 Let's talk more on [Twitter](https://x.com/abishake381)
-
----
-
-### 🛠️ My Favorite Tech
-
-> Tools, languages, and other things that I like to work with.
+## 🛠️ Favorite Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,flutter,dart,mysql,mongodb,git,figma,tailwind,django,aws,c" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,django,flutter,dart,mysql,mongodb,git,aws,tailwind,figma,c" />
 </p>
 
 ---
 
-### 📊 Most Used Languages
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abishake01&show_icons=true&locale=en&layout=compact&bg_color=ffffff&title_color=0e75b6&text_color=000000&icon_color=0e75b6" alt="Abishake01" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abishake01&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishake01&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+
+---
+
+## 🐍 Contribution Snake (Animation)
+
+<p align="center">
+  <img src="https://github.com/Abishake01/Abishake01/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### ✨ Fun Facts
-
-- 🌱 Currently learning **Cloud Computing** and **DevOps**
-- 🏸 Love playing badminton and football
-- 🎨 Enjoy designing UI/UX in Figma
-- 🧑‍💻 Always up for a hackathon!
-
----
-
-### 📫 Let's Connect!
+## ✨ Quote I Live By
 
 <p align="center">
-  <a href="mailto:abishake381@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/abishake-t-835428257/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/abishake381"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://medium.com/@abishake381"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <i>"Code is not just about logic, it's about imagination."</i>
 </p>
 
 ---
 
-<!-- Animated Snake Contribution Graph -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abishake01/Abishake01/output/github-contribution-grid-snake.svg" alt="snake" />
+  🚀 Thanks for visiting my profile — Let’s build something awesome together!
 </p>
-
-<!---
-Abishake01/Abishake01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
